@@ -1,0 +1,19 @@
+.DS_Store/
+*.DS_Store
+
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+.project
+.settings
+audit/test/testchain/geth
+audit/test/testchain/geth.ipc
+audit/test/testchain/history
+audit/test/contracts
+private
